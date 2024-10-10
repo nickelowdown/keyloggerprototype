@@ -1,0 +1,2 @@
+﻿  keylogger_prototype.cpp
+LINK : fatal error LNK1168: cannot open C:\Users\nicho\source\repos\keylogger_prototype-main\x64\Debug\keylogger_prototype-main.exe for writing
